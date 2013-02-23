@@ -7,5 +7,7 @@ base:
     - apt
   'lxc017':
     - gregmumble
+  'lxc018':
+    - httpproxy
   'lxc023':
     - grantmumble
