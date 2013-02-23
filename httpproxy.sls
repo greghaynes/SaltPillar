@@ -1,5 +1,5 @@
 httpproxy-regex-host-proxies:
-  '(www\.)?(greghaynes\.net|greghayn\.es)':
+  '^(www\.)?(greghaynes\.net|greghayn\.es)':
     - 10.20.2.5
 
 httpproxy-host-proxies:
