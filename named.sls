@@ -1,5 +1,11 @@
 named-zones:
   blue.gah:
+    ttl: 604800
+    serial: 12291201
+    refresh: 604800
+    retry: 86400
+    expire: 2419200
+    negative_ttl: 604800
     ip_prefix: '10.20.'
     ns_records:
       '@': ns1.blue.gah.
