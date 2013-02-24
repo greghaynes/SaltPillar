@@ -9,5 +9,7 @@ base:
     - gregmumble
   'lxc018':
     - httpproxy
+  'lxc022':
+    - named
   'lxc023':
     - grantmumble
