@@ -2,6 +2,7 @@ base:
   '*':
     - locale
     - resolv
+    - rsyslog
   'os:Ubuntu':
     - match: grain
     - apt
