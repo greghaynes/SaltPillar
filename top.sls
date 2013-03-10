@@ -4,6 +4,7 @@ base:
     - resolv
     - rsyslog
     - motd
+    - sshd
   'os:Ubuntu':
     - match: grain
     - apt
