@@ -9,3 +9,5 @@ httpproxy-host-proxies:
     - 10.20.2.9
   git.greghaynes.net:
     - 10.20.2.10
+  planet.derpstack.org:
+    - 10.20.2.12

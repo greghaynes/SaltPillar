@@ -22,3 +22,4 @@ named-zones:
       grant.mumble: '2.9'
       git: '2.10'
       pgmaster: '2.11'
+      rawdog: '2.12'
